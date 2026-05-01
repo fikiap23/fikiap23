@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Fiki Aprian, a passionate IT student with a strong interest in the world of web and mobile development. I love to craft beautiful and functional user interfaces and bring them to life with efficient backend solutions.
+I'm Fiki Aprian, a Fullstack Developer with 3 years of experience building impactful digital products end-to-end, from backend architecture to modern frontend experiences.
+My strongest focus is backend engineering: designing scalable services, building robust APIs, managing relational and NoSQL databases, and integrating cache and message brokers while keeping systems secure and maintainable.
+I combine technical depth with proactive communication and collaborative execution to deliver reliable systems that create measurable business impact.
 
 
 ## 🌐 Socials:
