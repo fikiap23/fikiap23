@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Fiki Aprian, a passionate IT student with a strong interest in the world of web and mobile development. I love to craft beautiful and functional user interfaces and bring them to life with efficient backend solutions. <br><br>🔭 I’m currently working on [Posivibes-v2](https://github.com/fikiap23/Posivibes-v2.git)
+I'm Fiki Aprian, a passionate IT student with a strong interest in the world of web and mobile development. I love to craft beautiful and functional user interfaces and bring them to life with efficient backend solutions. <br><br>🔭
 <br>🌱 I’m currently learning NextJs, NestJs<br>👨‍💻 All of my projects are available at [https://my-portofolio-fikiap23.vercel.app/](https://my-portofolio-fikiap23.vercel.app/)<br>📫 How to reach me fikiaprian23@gmail.com
 
 
